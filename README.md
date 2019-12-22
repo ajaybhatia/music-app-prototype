@@ -1,5 +1,7 @@
 # Music App
 
+![alt screenshot](/screenshots/screenshot001.png)
+
 This is a music app prototyping made with flutter inspired from [Dribbble](https://dribbble.com/shots/9112570-music-App/attachments/1183680?mode=media)
 
 ## How to use it?
